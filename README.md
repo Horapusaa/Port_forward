@@ -1,5 +1,5 @@
 # Port_forward
-*Use This Python App to Forward Ports On your computer to public!
+* Use This Python App to Forward Ports On your computer to public!
 
 Enable Port FOrwarding On vps!
 ```bash
