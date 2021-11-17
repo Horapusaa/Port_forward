@@ -1,4 +1,4 @@
-#/user/bin/env/pythoon
+#/user/bin/env/python
 
 import subprocess
 
