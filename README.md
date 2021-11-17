@@ -3,7 +3,7 @@
 
 Enable Port FOrwarding On vps!
 ```bash
-wget https://raw.githubusercontent.com/Horapusaa/Port_forward/main/config_vps.sh ;bash config_vps.sh : rm config_vps.sh
+wget https://raw.githubusercontent.com/Horapusaa/Port_forward/main/config_vps.sh ;bash config_vps.sh ; rm config_vps.sh
 ```
 
 Download The Port Forward App using this Command!
