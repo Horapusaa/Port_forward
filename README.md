@@ -11,6 +11,6 @@ Download The Port Forward App using this Command!
 wget https://raw.githubusercontent.com/Horapusaa/Port_forward/main/enable_port_forward.py
 ```
 Run the app using this command!
-```bash
-bash enable_port_forward.py
+```python
+python3 enable_port_forward.py
 ```
