@@ -1,1 +1,1 @@
-cat "GatewayPorts yes" >> /etc/ssh/sshd_config
+echo "GatewayPorts yes" >> /etc/ssh/sshd_config
